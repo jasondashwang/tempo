@@ -1,0 +1,12 @@
+{
+  "name": "tempo-cli",
+  "version": "0.0.0",
+  "description": "REST API Generator",
+  "main": "cli.js",
+  "repository": "https://github.com/jasondashwang/tempo-cli.git",
+  "author": "jasondashwang <7934854+jasondashwang@users.noreply.github.com>",
+  "license": "MIT",
+  "bin": {
+    "hello": "./cli.js"
+  }
+}
